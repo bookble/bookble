@@ -1,6 +1,6 @@
-# Bookble
+# Bookble app
 
-**Bookble** is a comprehensive digital library app for book lovers. Explore and read novels and books, listen to audiobooks, and view summaries easily and seamlessly. Bookble combines modern design, dynamic features, and multi-platform support to make reading and listening a delightful experience.
+**Bookble app** is a comprehensive digital library app for book lovers. Explore and read novels and books, listen to audiobooks, and view summaries easily and seamlessly. Bookble combines modern design, dynamic features, and multi-platform support to make reading and listening a delightful experience.
 
 ---
 
