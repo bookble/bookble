@@ -7,7 +7,7 @@
 <br />
 <br />
 
-# Bookble app.
+# Bookble app
 
 ### Escape the Endless Scroll. Read, Listen & Discover 36,900+ Timeless Books — 100% Free & Ad-Free.
 
