@@ -1,13 +1,13 @@
 <div align="center">
 
 <a href="https://play.google.com/store/apps/details?id=net.bookble.app">
-  <img src="assets/feature_graphic_en_v2.png" alt="Bookble — Read Timeless Stories & Audio" width="100%" />
+  <img src="assets/feature_graphic_en_v2.png" alt="Bookble app — Read Timeless Stories & Audio" width="100%" />
 </a>
 
 <br />
 <br />
 
-# Bookble.
+# Bookble app.
 
 ### Escape the Endless Scroll. Read, Listen & Discover 36,900+ Timeless Books — 100% Free & Ad-Free.
 
@@ -22,7 +22,7 @@
 </p>
 
 <p>
-  <a href="#-why-readers-choose-bookble">Why Bookble</a> •
+  <a href="#-why-readers-choose-bookble">Why Bookble app</a> •
   <a href="#-inside-the-app">Inside the App</a> •
   <a href="#-everything-you-need-in-one-calm-app">Features</a> •
   <a href="#-available-in-13-languages">13 Languages</a> •
@@ -33,7 +33,7 @@
 
 ---
 
-## ✨ Why Readers Choose Bookble
+## ✨ Why Readers Choose Bookble app
 
 Most reading apps bombard you with subscriptions, locked chapters, or distracting ads. **Bookble** is built differently: a calm, studio-crafted pocket library where **36,900+ iconic books, audiobooks, radio dramas, and curated summaries** are yours to enjoy — **completely free, zero ads, and ready offline.**
 
